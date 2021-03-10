@@ -1,3 +1,2 @@
-# ugo_project
+# joe
 
-Projekt für die "Hi Ulli"-Aufgabe aus meinem Ausbildungsplan
